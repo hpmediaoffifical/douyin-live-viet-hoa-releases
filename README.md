@@ -13,9 +13,9 @@ tập trung vào **làm đẹp, chỉnh dáng, filter, hiệu ứng, phông xanh
 Bộ cài đã kèm mọi thứ cần thiết, không cần cài thêm phần mềm nào.
 
 ## Tự cập nhật
-Nếu chọn *"Tự động cập nhật"* khi cài, mỗi lần đăng nhập Windows bộ Việt hóa sẽ:
-- tự tải và cài bản Việt hóa mới nhất từ trang này;
-- tự Việt hóa lại khi Douyin LIVE tự cập nhật phiên bản mới.
+Nếu chọn *"Tự động cập nhật"* khi cài, bản Việt hóa tự cập nhật âm thầm, không cần làm gì:
+- Mở Douyin LIVE: tự kiểm tra bản Việt hóa mới; có bản mới thì **tự cài khi bạn tắt Douyin LIVE**.
+- Đăng nhập Windows: tự kiểm tra cập nhật và tự Việt hóa lại khi Douyin LIVE vừa tự cập nhật phiên bản mới.
 
 Có thể kiểm tra thủ công: Start Menu → **HP Media → Kiểm tra cập nhật**.
 
